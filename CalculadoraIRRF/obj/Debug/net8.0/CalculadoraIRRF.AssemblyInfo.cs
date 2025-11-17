@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraIRRF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1be05c429a9122c44d77ac1fcaa58e27901a073")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0532cf3d837ee13856687b37d15b3a1ee767b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraIRRF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraIRRF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

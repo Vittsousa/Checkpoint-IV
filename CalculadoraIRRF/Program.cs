@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        decimal salarioBruto = 3000.00m;  // Exemplo de salário bruto
+        decimal salarioBruto = 4000.00m;  // Exemplo de salário bruto
         Funcionario funcionario = new Funcionario(salarioBruto);
         CalculadoraSalario calculadoraSalario = new CalculadoraSalario();
         
