@@ -1,0 +1,15 @@
+/workspaces/Checkpoint-IV/CalculadoraIRRF/bin/Debug/net8.0/CalculadoraIRRF
+/workspaces/Checkpoint-IV/CalculadoraIRRF/bin/Debug/net8.0/CalculadoraIRRF.deps.json
+/workspaces/Checkpoint-IV/CalculadoraIRRF/bin/Debug/net8.0/CalculadoraIRRF.runtimeconfig.json
+/workspaces/Checkpoint-IV/CalculadoraIRRF/bin/Debug/net8.0/CalculadoraIRRF.dll
+/workspaces/Checkpoint-IV/CalculadoraIRRF/bin/Debug/net8.0/CalculadoraIRRF.pdb
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.AssemblyInfoInputs.cache
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.AssemblyInfo.cs
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.csproj.CoreCompileInputs.cache
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.sourcelink.json
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.dll
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/refint/CalculadoraIRRF.dll
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.pdb
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/CalculadoraIRRF.genruntimeconfig.cache
+/workspaces/Checkpoint-IV/CalculadoraIRRF/obj/Debug/net8.0/ref/CalculadoraIRRF.dll
